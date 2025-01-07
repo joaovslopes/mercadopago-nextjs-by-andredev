@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Integração Mercado Pago com Next.js
 
-## Getting Started
+Este repositório contém o código fonte do tutorial sobre como integrar a API do Mercado Pago em uma aplicação Next.js para receber pagamentos via cartão de crédito e PIX.
 
-First, run the development server:
+## 📺 Tutorial
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Assista ao tutorial completo no meu canal:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Como Integrar Mercado Pago com Next.js - Receba Pagamentos por PIX e Cartão](https://youtube.com/LINK_DO_VIDEO)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔗 Links
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [Canal Andre Dev no YouTube](https://youtube.com/@LINK_DO_CANAL)
 
-## Learn More
+## ✨ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- Integração com API do Mercado Pago
+- Pagamentos via:
+  - Cartão de crédito (até 12x)
+  - PIX
+- Webhook para confirmação de pagamentos
+- Tratamento de pagamentos pendentes
+- Verificação de assinatura do Mercado Pago
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tecnologias
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js 15+ (App Router)
+- TypeScript
+- SDK Mercado Pago
+- TailwindCSS
 
-## Deploy on Vercel
+## 📝 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+⭐ Se este repositório te ajudou, não esqueça de deixar uma estrela!
+
+Feito por [Andre Dev](https://youtube.com/@LINK_DO_CANAL)
