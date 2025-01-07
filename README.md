@@ -6,11 +6,11 @@ Este repositório contém o código fonte do tutorial sobre como integrar a API 
 
 Assista ao tutorial completo no meu canal:
 
-- [Como Integrar Mercado Pago com Next.js - Receba Pagamentos por PIX e Cartão](https://youtube.com/LINK_DO_VIDEO)
+- [Como Integrar Mercado Pago com Next.js - Receba Pagamentos por PIX e Cartão](https://youtu.be/og6OBnvOVBE)
 
 ## 🔗 Links
 
-- [Canal Andre Dev no YouTube](https://youtube.com/@LINK_DO_CANAL)
+- [Canal Andre Dev no YouTube](https://www.youtube.com/@andreeliasdev)
 
 ## ✨ Funcionalidades
 
@@ -29,12 +29,8 @@ Assista ao tutorial completo no meu canal:
 - SDK Mercado Pago
 - TailwindCSS
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 ⭐ Se este repositório te ajudou, não esqueça de deixar uma estrela!
 
-Feito por [Andre Dev](https://youtube.com/@LINK_DO_CANAL)
+Feito por [Andre Dev](https://www.youtube.com/@andreeliasdev)
